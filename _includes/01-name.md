@@ -1,1 +1,7 @@
-Replace this with your name, and include a header.
+#Dr. B <h1> rules
+## 2
+### 3
+#### 4
+##### 5
+###### 6
+####### 7
